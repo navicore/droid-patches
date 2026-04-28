@@ -1,3 +1,8 @@
+<!-- ghmig:moved -->
+> **This repository has moved to [https://git.navicore.tech/navicore/droid-patches](https://git.navicore.tech/navicore/droid-patches).**
+>
+> The GitHub copy is archived and no longer maintained.
+
 # droid-patches
 
 see https://shop.dermannmitdermaschine.de/pages/droid-universal-cv-processor
